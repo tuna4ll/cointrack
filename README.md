@@ -30,6 +30,10 @@ npm run dev
 npm run build
 ```
 
+### Demo
+
+https://cointrack-seven.vercel.app/
+
 ## Technical Stack
 - Next.js
 - TypeScript
