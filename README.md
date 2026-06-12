@@ -2,6 +2,8 @@
 
 Bitcoin privacy analyzer tool.
 
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/903f71c5-7259-473d-8a6c-6d6800c8a4d8" />
+
 ## Overview
 Cointrack analyzes Bitcoin addresses and transactions to detect privacy leaks such as address reuse, UTXO consolidation, and wallet clustering.
 
